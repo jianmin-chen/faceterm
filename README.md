@@ -20,3 +20,4 @@ Maybe add an alias or whatever it's called by your shell. Here's what I do in `~
 
 ## Client
 
+Working with sockets fucking sucks. Okay, that aside:
